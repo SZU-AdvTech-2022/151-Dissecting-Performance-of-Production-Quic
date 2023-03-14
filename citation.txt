@@ -1,0 +1,7 @@
+@inproceedings{REPO-152,
+    author = "Yu, Alexander and Benson, Theophilus A",
+    booktitle = "Proceedings of the Web Conference 2021",
+    pages = "1157--1168",
+    title = "{Dissecting Performance of Production Quic}",
+    year = "2021"
+}
